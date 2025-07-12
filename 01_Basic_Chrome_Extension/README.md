@@ -1,4 +1,4 @@
-# EMLOV4-Session-01 Assignment - Basic Chrome Extension
+# EAG-Session-01 Assignment - Basic Chrome Extension
 
 **Assignment Overview**
 

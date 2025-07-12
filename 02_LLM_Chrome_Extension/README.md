@@ -1,4 +1,4 @@
-# EMLOV4-Session-02 Assignment - LLM based Chrome Extension
+# EAG-Session-02 Assignment - LLM based Chrome Extension
 
 **Assignment Overview**
 
